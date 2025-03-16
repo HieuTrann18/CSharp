@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\QuanLyXe\bin\Debug\net8.0\QuanLyXe.exe
+C:\Users\Admin\source\repos\QuanLyXe\bin\Debug\net8.0\QuanLyXe.deps.json
+C:\Users\Admin\source\repos\QuanLyXe\bin\Debug\net8.0\QuanLyXe.runtimeconfig.json
+C:\Users\Admin\source\repos\QuanLyXe\bin\Debug\net8.0\QuanLyXe.dll
+C:\Users\Admin\source\repos\QuanLyXe\bin\Debug\net8.0\QuanLyXe.pdb
+C:\Users\Admin\source\repos\QuanLyXe\obj\Debug\net8.0\QuanLyXe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\QuanLyXe\obj\Debug\net8.0\QuanLyXe.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\QuanLyXe\obj\Debug\net8.0\QuanLyXe.AssemblyInfo.cs
+C:\Users\Admin\source\repos\QuanLyXe\obj\Debug\net8.0\QuanLyXe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QuanLyXe\obj\Debug\net8.0\QuanLyXe.dll
+C:\Users\Admin\source\repos\QuanLyXe\obj\Debug\net8.0\refint\QuanLyXe.dll
+C:\Users\Admin\source\repos\QuanLyXe\obj\Debug\net8.0\QuanLyXe.pdb
+C:\Users\Admin\source\repos\QuanLyXe\obj\Debug\net8.0\QuanLyXe.genruntimeconfig.cache
+C:\Users\Admin\source\repos\QuanLyXe\obj\Debug\net8.0\ref\QuanLyXe.dll
