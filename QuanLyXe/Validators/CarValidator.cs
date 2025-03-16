@@ -28,9 +28,7 @@ namespace QuanLyXe.Validators
         {
             Console.WriteLine(prompt);
             do
-            {
-                try
-                {
+            { 
                     if (float.TryParse(Console.ReadLine(), out float value)) 
                     {
                         if (value <= 0)
@@ -42,12 +40,7 @@ namespace QuanLyXe.Validators
                     }
 
                     Console.WriteLine(error);
-                }
-                catch(Exception ex)
-                {
-                    Console.WriteLine($"Error entering real number: {ex.Message}");
-                    continue;
-                }
+               
             } while (true);
         }
 
@@ -56,8 +49,6 @@ namespace QuanLyXe.Validators
             Console.WriteLine(prompt);
             do
             {
-                try
-                {
                     if (int.TryParse(Console.ReadLine(), out int value))
                     {
                         if(value <= 0)
@@ -68,12 +59,6 @@ namespace QuanLyXe.Validators
                         return value;
                     }
                     Console.WriteLine(error);
-                }
-                catch(Exception ex)
-                {
-                    Console.WriteLine($"Error entering integer: {ex.Message}");
-                    continue;
-                }
             } while (true);
         }
     }
