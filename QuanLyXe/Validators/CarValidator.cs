@@ -15,24 +15,12 @@ namespace QuanLyXe.Validators
             Console.WriteLine(prompt);
             do
             {
-                try
-                {
                     string input = Console.ReadLine() ?? "";
                     if (!string.IsNullOrWhiteSpace(input))
                     {
                         return input;
                     }
                     Console.WriteLine(error);
-                }
-                catch(Exception ex)
-                {
-                    Console.WriteLine($"Error in data entry: {ex.Message}");
-                    continue;
-                }
-               
-
-             
-               
             } while (true);
         }
 
