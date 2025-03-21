@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ProductManagementAdvance\obj\Debug\net8.0\ProductManagementAdvance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ProductManagementAdvance\obj\Debug\net8.0\ProductManagementAdvance.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ProductManagementAdvance\obj\Debug\net8.0\ProductManagementAdvance.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ProductManagementAdvance\obj\Debug\net8.0\ProductManagementAdvance.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ProductManagementAdvance\bin\Debug\net8.0\ProductManagementAdvance.exe
+C:\Users\Admin\source\repos\ProductManagementAdvance\bin\Debug\net8.0\ProductManagementAdvance.deps.json
+C:\Users\Admin\source\repos\ProductManagementAdvance\bin\Debug\net8.0\ProductManagementAdvance.runtimeconfig.json
+C:\Users\Admin\source\repos\ProductManagementAdvance\bin\Debug\net8.0\ProductManagementAdvance.dll
+C:\Users\Admin\source\repos\ProductManagementAdvance\bin\Debug\net8.0\ProductManagementAdvance.pdb
+C:\Users\Admin\source\repos\ProductManagementAdvance\obj\Debug\net8.0\ProductManagementAdvance.dll
+C:\Users\Admin\source\repos\ProductManagementAdvance\obj\Debug\net8.0\refint\ProductManagementAdvance.dll
+C:\Users\Admin\source\repos\ProductManagementAdvance\obj\Debug\net8.0\ProductManagementAdvance.pdb
+C:\Users\Admin\source\repos\ProductManagementAdvance\obj\Debug\net8.0\ProductManagementAdvance.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ProductManagementAdvance\obj\Debug\net8.0\ref\ProductManagementAdvance.dll
